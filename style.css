@@ -11,3 +11,21 @@ Tags: authors, writers
 
 
 */
+
+/*Nav Bars*/
+
+/*Carosels*/
+.book-carosel{
+    width:100%;
+    overflow:hidden;
+}
+.book-carosel-inner
+{
+    /*remove if not needed*/
+}
+.book-carosel-book
+{
+    /*proportions of image+padding/margin*/
+}
+
+/*Reading Books*/ 
