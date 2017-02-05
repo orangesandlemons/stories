@@ -1,0 +1,1 @@
+<div class="footer"><a href='https://github.com/orangesandlemons/stories'>Stories.</a> A WP theme for writers</div>

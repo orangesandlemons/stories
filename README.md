@@ -2,6 +2,8 @@
 
 A wp theme for writers and writing communities
 
+for instructions and help with using the theme, please see the wiki
+
 ## Releases
 
 Releases are available under the 'release' tab on the github repository.
